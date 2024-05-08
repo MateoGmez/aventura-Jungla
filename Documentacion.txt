@@ -1,0 +1,20 @@
+Bienvenidos a la Aventura en la jungla
+
+Este proyecto interacctivo esta construido con HTML, CSS y Boostrap. con adaptacion responsive para cualquier pantalla o dispositivo.
+
+El fin de este proyecto es implementar todos los conocimientos adquiridos hasta el momento y mejorar mi experiencia de trabajo en creacion de ramas, cambiarnos de una a la otra para el trabajo colaborativo.
+realizaremos push a la rama dev con el fin de garantizar la seguridad y permanecia de nuestra rama principal.
+
+Partipantes del proyecto:
+
+Mateo Rueda Gómez -- Cuenta personal 
+
+Mateo Rueda Gómez -- Cuenta Estudiantil
+
+Ramas:
+
+main --> rama principal
+dev  --> rama copiaProyecto
+mateo-rueda --> rama de trabajo cuenta personal.
+mateo-gomez --> rama de trabajo cuenta estudiantil.
+
